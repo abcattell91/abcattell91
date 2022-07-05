@@ -58,16 +58,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" />&nbsp;&nbsp;                               <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" />&nbsp;&nbsp;
   
 </p>
-​
-​
-​
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <p align="left">
 // Badges come from <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a>
 </p>

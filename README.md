@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align='center'> Hello! </h1>
 ​
 <p align='center'>
-  I am a software developer who has just finished the Web Development course at Le Wagon (July 2022). When not programming, I'am a Professional Musician working in London and throughout the UK. Please visit my LinkedIn to follow my programming journey.
+  I am a software developer who finished the Web Development course at Le Wagon. When not programming, I'am a Professional Musician working in London and throughout the UK. Please visit my LinkedIn to follow my programming journey.
 </p>
 ​
 <p align='center'>
